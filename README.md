@@ -2,7 +2,7 @@
 
 IP2Location is a tool allowing user to get IP address information such as country, region, city, 
 latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, 
-mobile network, elevation, usage type by IP address (IPv4 or IPv6) from IP2Location BIN database. 
+mobile network, elevation, usage type, address type and IAB category by IP address (IPv4 or IPv6) from IP2Location BIN database. 
 
 For more details, please visit:  
 https://www.ip2location.com/free/applications  
@@ -81,8 +81,8 @@ ip2location -d [IP2LOCATION BIN DATA PATH] -i [INPUT FILE PATH] --format XML
 Download More Sample Databases  
 ------------------------------  
 ```bash
-wget https://www.ip2location.com/downloads/sample.bin.db24.zip
-unzip samples-db24.zip
+wget https://www.ip2location.com/downloads/sample.bin.db25.zip
+unzip samples-db25.zip
 ```
 
 
