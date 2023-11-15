@@ -1,5 +1,7 @@
 # IP2Location
 
+## THIS IP2LOCATION LOOKUP HAS BEEN INTEGRATED INTO IP2LOCATION C LIBRARY. PLEASE VISIT [IPL2ocation C Library](https://github.com/chrislim2888/IP2Location-C-Library) FOR THE LATEST RELEASE
+
 IP2Location is a tool allowing user to get IP address information such as country, region, city, 
 latitude, longitude, zip code, time zone, ISP, domain name, connection type, area code, weather, 
 mobile network, elevation, usage type, address type and IAB category by IP address (IPv4 or IPv6) from IP2Location BIN database. 
